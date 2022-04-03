@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Testowe AR</string>
+    <string name="place_object">Place object</string>
+    <string name="remove_object">Remove object</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="average_color">Avg. color</string>
+
+</resources>
